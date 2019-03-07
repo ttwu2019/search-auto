@@ -1,2 +1,3 @@
 # search-auto
-search-auto
+
+search auto
