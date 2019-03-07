@@ -1,0 +1,7 @@
+{
+    "url": "/k/v1/record.json",
+    "headers": {
+        "Content-Type": "application/json",
+        "X-Cybozu-Authorization": "dDAwMDY0NDpDeWJvenUxMjM="
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "body": {
+        "app": "",
+        "record": {
+            "create": {
+                "type": "USER_SELECT",
+                "value": []
+            },
+            "url": {
+                "type": "SINGLE_LINE_TEXT",
+                "value": ""
+            },
+            "summary": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "date": {
+                "type": "DATE",
+                "value": ""
+            },
+            "app": {
+                "type": "SINGLE_LINE_TEXT",
+                "value": ""
+            },
+            "record": {
+                "type": "SINGLE_LINE_TEXT",
+                "value": ""
+            },
+            "space": {
+                "type": "SINGLE_LINE_TEXT",
+                "value": ""
+            },
+            "thread": {
+                "type": "SINGLE_LINE_TEXT",
+                "value": ""
+            },
+            "people": {
+                "type": "USER_SELECT",
+                "value": []
+            }
+        }
+    },
+    "json": true
+}

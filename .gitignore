@@ -1,0 +1,6 @@
+node_modules/
+reports/
+.vscode/
+.git/
+package-lock.json
+command.sh

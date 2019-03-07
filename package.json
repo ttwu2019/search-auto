@@ -1,0 +1,22 @@
+{
+  "name": "search-kintone-auto",
+  "version": "1.0.0",
+  "description": "Search from kintone then add to kintone app",
+  "scripts": {
+    "test": "wdio"
+  },
+  "author": "cybozu",
+  "devDependencies": {
+    "eslint": "^4.18.2",
+    "eslint-config-tcb": "1.0.2",
+    "mocha": "^5.0.4",
+    "tcb-api-rest": "^0.1.5",
+    "wdio-junit-reporter": "^0.4.2",
+    "wdio-mocha-framework": "^0.5.13",
+    "webdriverio": "4.8.0"
+  },
+  "dependencies": {
+    "js-htmlencode": "^0.3.0",
+    "request": "^2.88.0"
+  }
+}
