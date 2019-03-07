@@ -15,7 +15,7 @@ describe("search-kintone-auto", () => {
     lists = await new SearchingFlow(cred).search();
   });
 
-  it("Add results to kin app.", () => {
+  it("Add results to kin app.then verify api post success by statuscode.", () => {
     new AddingFlow(header, body, lists).addAndVerify();
   });
 });
